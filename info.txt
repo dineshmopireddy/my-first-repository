@@ -1,0 +1,3 @@
+hello world
+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
+git remote add origin https://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@github.com/dineshmopireddy/my-first-repository.git
